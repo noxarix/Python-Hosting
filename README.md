@@ -198,10 +198,10 @@ When you upload a `.zip` file, the bot:
 
 ---
 
-## 📞 Support
+## 📞 Support in Bot
 
 For issues or questions:
-- 📧 Contact via Telegram (see `YOUR_USERNAME` in config)
+- 📧 Contact via Telegram 
 - 📢 Join updates channel for announcements
 
 ---
