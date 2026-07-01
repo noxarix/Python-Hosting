@@ -39,10 +39,10 @@ def run_web():
 
 
 # --- Configuration ---
-TOKEN = '8448060379:AAGvBgfX1dd_V5Yk3XOf4l7PCsQZiJBh7Wc'
-OWNER_ID = 8455806295
-ADMIN_ID = 8455806295
-YOUR_USERNAME = 'nox_shadowx'
+TOKEN = 'YOUR_BOT_TOKEN'
+OWNER_ID = OWNER_USERID
+ADMIN_ID = ADMIN_USERID
+YOUR_USERNAME = 'OWNER_USERNAME'
 UPDATE_CHANNEL = 'https://t.me/Music_Brigade_Chatting_zone'
 
 # Folder setup
