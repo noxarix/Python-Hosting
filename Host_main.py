@@ -42,8 +42,8 @@ def run_web():
 TOKEN = 'YOUR_BOT_TOKEN'
 OWNER_ID = ''   #YOUR USER ID
 ADMIN_ID = ''   #ADMIN OR YOUR USER ID 
-YOUR_USERNAME = 'nox_shadowx'
-UPDATE_CHANNEL = 'https://t.me/Music_Brigade_Chatting_zone'
+YOUR_USERNAME = ''   #YOUR USER ID 
+UPDATE_CHANNEL = ''   #UPDATE CHANNEL/GROUP LINK
 
 # Folder setup
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
