@@ -39,7 +39,7 @@ def run_web():
 
 
 # --- Configuration ---
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = ''   #YOUR BOT TOKEN
 OWNER_ID = ''   #YOUR USER ID
 ADMIN_ID = ''   #ADMIN OR YOUR USER ID 
 YOUR_USERNAME = ''   #YOUR USER ID 
