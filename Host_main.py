@@ -39,11 +39,11 @@ def run_web():
 
 
 # --- Configuration ---
-TOKEN = ''   #YOUR BOT TOKEN
-OWNER_ID = ''   #YOUR USER ID
-ADMIN_ID = ''   #ADMIN OR YOUR USER ID 
-YOUR_USERNAME = ''   #YOUR USER ID 
-UPDATE_CHANNEL = ''   #UPDATE CHANNEL/GROUP LINK
+TOKEN = os.getenv("BOT_TOKEN")
+OWNER_ID = int(os.getenv("OWNER_ID"))
+ADMIN_ID = int(os.getenv("ADMIN_ID"))
+YOUR_USERNAME = os.getenv("YOUR_USERNAME")
+UPDATE_CHANNEL = os.getenv("UPDATE_CHANNEL")
 
 # Folder setup
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
