@@ -40,7 +40,7 @@ def run_web():
 
 # --- Configuration ---
 TOKEN = 'YOUR_BOT_TOKEN'
-OWNER_ID = #OWNER_USERID
+OWNER_ID = 
 ADMIN_ID = #ADMIN_USERID
 YOUR_USERNAME = 'OWNER_USERNAME'
 UPDATE_CHANNEL = 'https://t.me/Music_Brigade_Chatting_zone'
